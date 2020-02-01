@@ -1,4 +1,6 @@
 *
+!*.Dockerfile
+!*.yml
 !.gitignore
 !.travis.yml
 !appveyor.yml
